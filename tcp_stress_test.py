@@ -7,7 +7,7 @@
 # 
 # FileName:     tcp_stress_test.py
 # 
-# Description:  
+# Description:  压力测试：开启大量客户进程连接服务
 
 import math
 from socket import *
